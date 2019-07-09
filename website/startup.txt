@@ -1,0 +1,11 @@
+watch my js and compile:
+
+yarn run encore dev --watch
+
+
+
+
+
+Run server:
+
+php bin\console server:run
